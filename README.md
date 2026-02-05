@@ -1,4 +1,5 @@
 # 🎡 Radar de Vida | Auditoría 02
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://radar-vida-human-code.streamlit.app/)
 **Visualización interactiva del equilibrio personal y profesional.**
 
 ## 🎯 Objetivo
